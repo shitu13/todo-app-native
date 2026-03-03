@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# ⚡ Todo App – React Native + Expo + Convex
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern, clean, and minimal Todo application built using **React Native**, **Expo**, and **Convex** as the backend.
 
-## Get started
+This app allows users to manage daily tasks with real-time sync and a smooth mobile UI.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 📱 Screenshots
 
-2. Start the app
+| Home Screen | Settings Screen |
+| :---: | :---: |
+| ![HomePage](assets/images/home.jpeg) | ![Settings](assets/images/settings.jpeg) |
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+### 🏠 Todos Screen
+- View all active tasks
+- Add new tasks
+- Edit or delete tasks
+- Mark tasks as completed
+- Progress bar indicator
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### ⚙️ Settings Screen
+- View progress statistics
+- Total todos
+- Completed todos
+- Active todos
+- Dark mode toggle
+- Notifications toggle
+- Auto sync option
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🚀 Tech Stack
 
-When you're ready, run:
+- ⚛️ React Native
+- 🚀 Expo
+- 🔥 Convex (Backend as a Service)
+- 🧠 React Hooks
+- 🎨 Modern UI Design
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## ✨ Features
 
-## Learn more
+- ✅ Add new tasks
+- ✏️ Edit tasks
+- 🗑 Delete tasks
+- ✔️ Mark as completed
+- 📊 Progress tracking
+- 🌙 Dark mode support
+- 🔄 Real-time sync using Convex
+- 📱 Clean and responsive UI
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
